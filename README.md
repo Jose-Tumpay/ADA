@@ -29,5 +29,6 @@ Se toman tiempos para tamaños de entrada 1000, 2000, 4000, 8000, 16000, ... has
 
 - Lenguaje: C++17
 - Compilador: GCC 16.1.0 (MinGW64)
-- Procesador: equipo Windows con arquitectura x86_64 (detallado por systeminfo)
-- Memoria: se reportó memoria total física con `systeminfo`
+- Procesador: Intel core i5 12450HX
+- Memoria: 8GB DDR5 4800MT/s
+- SO: Windows 11
