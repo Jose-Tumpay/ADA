@@ -15,7 +15,7 @@ Se validó la igualdad entre ellas con 200 arreglos aleatorios de enteros en el 
 ### Cuadrática
 
 | n | tiempo (s) | razón |
-|---:|---:|---:|
+| ---: | ---: | ---: |
 | 1000 | 0.000292 | - |
 | 2000 | 0.000977 | 3.34 |
 | 4000 | 0.004381 | 4.48 |
@@ -28,7 +28,7 @@ Se validó la igualdad entre ellas con 200 arreglos aleatorios de enteros en el 
 ### Kadane
 
 | n | tiempo (s) | razón |
-|---:|---:|---:|
+| ---: | ---: | ---: |
 | 1000 | 0.000001 | - |
 | 2000 | 0.000002 | 1.96 |
 | 4000 | 0.000003 | 2.00 |
@@ -79,4 +79,3 @@ La versión Kadane es claramente la más eficiente y la única viable para entra
 - Compilador: GCC 16.1.0 (MinGW64)
 - Sistema operativo: Windows
 - Arquitectura: x64
-
